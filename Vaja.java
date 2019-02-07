@@ -9,5 +9,6 @@ public class Vaja {
 
     System.out.println("Lep pozdrav!");
 
+    System.out.println("To gre na GitHub");
   }
 }
